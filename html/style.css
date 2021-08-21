@@ -1,0 +1,35 @@
+* {
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    background: transparent;
+}
+
+#container {
+    width: 400px;
+    height: 240px;
+	padding: 10px;
+	text-shadow: 2px 2px 5px #424242;
+    position: absolute;
+    color: rgb(241, 235, 235);
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 45px;
+	text-align: center;
+	background-color: #272727;
+	border-radius: 25px;
+	border: 5px solid #ff8800 ;
+}
+
+img {
+    border: 1px solid white;
+    border-radius: 12px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2%;
+}
