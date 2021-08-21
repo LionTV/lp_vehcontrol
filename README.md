@@ -3,7 +3,7 @@ Press F5 to open the menu. It's pretty simple to use.
 
 If you want to close it, press the ESC key.
 
-The rest is self-explanatory
+The rest is self-explanatory.
 
 Ingame: 
 
